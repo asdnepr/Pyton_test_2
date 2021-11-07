@@ -20,7 +20,8 @@ if __name__ == '__main__':
 # + параметр который регулирует количество юзеров
 # 3. Считать файл hw.csv и посчитать средний рост, средний вес в см и кг соответственно
 # PATH: /mean/
-# 4. Вывести количество космонавтов в настоящий момент (http://api.open-notify.org/astros.json) (https://pypi.org/project/requests/)
+# 4. Вывести количество космонавтов в настоящий момент (http://api.open-notify.org/astros.json)
+# (https://pypi.org/project/requests/)
 # PATH: /space/
 # import requests
 # r = requests.get('https://api.github.com/repos/psf/requests')
